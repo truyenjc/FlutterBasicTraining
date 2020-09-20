@@ -1,4 +1,4 @@
-# Flutter basic training
+# Flutter Basic Training
 
 ## Introduction
 This is the Flutter basic document that builds on the main Flutter Official Docs and the writer's views on issues in Flutter.
