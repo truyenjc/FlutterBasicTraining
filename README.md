@@ -4,7 +4,7 @@
 This is the Flutter basic document that builds on the main Flutter Official Docs and the writer's views on issues in Flutter.
 
 ## Content
-All content will be updated in [Wiki](https://github.com/truyenz/flutter-starter/wiki/Introduction).
+All content will be updated in [Wiki](https://github.com/truyenjc/FlutterBasicTraining/wiki/Home).
 
 ## Reference
 - [Flutter Official Docs](https://flutter.dev/docs)
